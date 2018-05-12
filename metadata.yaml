@@ -1,0 +1,29 @@
+_repo: Andrew-MelvilleFamous-Scots-Series_22174
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morison, William
+    birthdate: 1843
+    deathdate: 1937
+    gutenberg_agent_id: '25159'
+    url: http://www.gutenberg.org/2009/agents/25159
+    wikipedia: https://en.wikipedia.org/wiki/William_Morison
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2007-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 27
+subjects:
+- !lcc 'BX'
+- !lcsh 'Melville, Andrew, 1545-1622'
+title: Andrew Melville
+url: http://www.gutenberg.org/ebooks/22174
