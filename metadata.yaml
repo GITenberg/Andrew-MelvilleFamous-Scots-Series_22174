@@ -27,5 +27,6 @@ series_note: Famous Scots Series, 27
 subjects:
 - !lcc 'BX'
 - !lcsh 'Melville, Andrew, 1545-1622'
+- GITenberg
 title: Andrew Melville
 url: http://www.gutenberg.org/ebooks/22174
